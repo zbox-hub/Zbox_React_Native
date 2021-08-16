@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shopper_smart.iml" filepath="$PROJECT_DIR$/.idea/modules/shopper_smart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/shopper_smart.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/shopper_smart.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/939374515/shopper_smart.react-native-async-storage_async-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/939374515/shopper_smart.react-native-async-storage_async-storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1353936047/shopper_smart.react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/1353936047/shopper_smart.react-native-community_masked-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-887152173/shopper_smart.react-native-community_netinfo.iml" filepath="$PROJECT_DIR$/.idea/modules/-887152173/shopper_smart.react-native-community_netinfo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/161918983/shopper_smart.react-native-device-info.iml" filepath="$PROJECT_DIR$/.idea/modules/161918983/shopper_smart.react-native-device-info.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1098924306/shopper_smart.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/1098924306/shopper_smart.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-954172982/shopper_smart.react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/-954172982/shopper_smart.react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1624365711/shopper_smart.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/-1624365711/shopper_smart.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-469194029/shopper_smart.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/-469194029/shopper_smart.react-native-screens.iml" />
+    </modules>
+  </component>
+</project>
